@@ -1,4 +1,5 @@
 FROM beresfordt/alpine-java8
+
 MAINTAINER Stein Fletcher <steinfletcher@gmail.com>
 
 WORKDIR /app
